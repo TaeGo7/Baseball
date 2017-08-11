@@ -1,3 +1,5 @@
+/* 2P Baseball Game */
+
 #include <stdio.h>
 #include <windows.h>
 
