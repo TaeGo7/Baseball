@@ -1,2 +1,2 @@
 # Baseball
-C Programing
+C Programming
